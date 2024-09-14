@@ -6,14 +6,5 @@ for (let i=0; i<input.length; i++){
     }
 }
 console.log(newArr.join(``));
-// let newString =Array.from(input);
-// for (let char of newString){
-//     if (!newArr.includes(char)){
-//         newArr.push(char)
-//     }
-// }
-
-
-
 }
 replaceRepeatingChars('qqqwerqwecccwd');
